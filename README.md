@@ -62,7 +62,7 @@ The 1000W powersupply has it's own directed windflow from the bottom and exits t
 
 ## Design choices and considerations
 While the motherboard does support multiple PCIe Gen5 SSD slots, I opted for a Gen4 SSD at higher capacities and lower price. Reviews indicate the temperature management (even on idle) is still an issue for Gen5 SSDs.
-Also, when it comes to Rrandom I/O, the performance delta is negligble between Gen5 and Gen4. Still, something I might change once the thermal performance (and power draw) improve in future generations of Gen5 SSDs.
+Also, with random I/O, the performance delta is negligble between Gen5 and Gen4. Still, something I might change once the thermal performance (and power draw) improve in future generations of Gen5 SSDs.
 
 The cable management was a painpoint (specifically the power to the motherboard being right underneath the CPU duct). Looking at System76's manual helped me find the optimal routing for wiring. The other painpoint was the flexing of the
 PCIe brackets. You can see in above images some are bent inwards and others outwards. I used the Dell T5610 as a comparision of bracket rigidity. It makes life a bit easier when handling and also don't want that metal bracket to touch the motherboard.
