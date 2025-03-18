@@ -1,5 +1,5 @@
 # nebula49
-I built a workstation with the System76's Nebula49 case. The case is powder coated with 1.6MM 5052 H32 Aluminum.
+I built a workstation with the System76's Nebula49 case. Based in Denver, System76 is a great local company to work with and have been responsive to my queries. They also own the vertical to their own custom linux distro (PopOS) which I use as a daily driver. 
 
 | Part        | Description |
 | ----------- | ----------- |
@@ -35,10 +35,13 @@ to the *normal fan profile* under heavy load.
 
 
 ## The Case
-The case is the anti-gaming system setup. Dark themed and internals closed to the outside world with the exception of holes for air inflow/outflow. Even those holes are covered with filters so you can't 
-get a good luck inside. Just as well, nebula49 is designed for optimal thermal and sound performance and it delivers. The separated CPU duct creates directional windflow to cool the CPU while the plethora
-of other fans located above the GPU-area and at the bottom of the case take care of cooling the other components. All of the SSD slots have their own heatsinks cooled by the side and bottom fans. 
-Tbe 1000W powersupply has it's own directed windflow from the bottom and exits to the back. The fans themselves are engineered to reduce vibrations.
+The case is the anti-gaming system setup. It's powder coated with 1.6MM 5052 H32 Aluminum. Dark themed and internals closed to the outside world with the exception of holes for air inflow/outflow. 
+Even those holes are covered with filters so you can't get a good luck inside. Just as well, nebula49 is designed for optimal thermal and sound performance and it delivers. 
+
+The separated CPU duct creates directional windflow to cool the CPU while the plethora of other fans located above the GPU-area and at the bottom of the case take care of cooling the other components. All of the SSD slots 
+have their own heatsinks cooled by the side and bottom fans. 
+
+The 1000W powersupply has it's own directed windflow from the bottom and exits to the back. The fans are engineered to reduce vibrations.
 
 <img src="https://github.com/user-attachments/assets/e3990428-0300-4e59-ba80-37cae941691c" width="600" height="600">
 
