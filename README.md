@@ -66,4 +66,4 @@ PCIe brackets. You can see in above images some are bent inwards and others outw
 
 The GPU is underwhelming but that's what I had lying around. Since the newer generation entry-level Nvidia PRO cards don't allow sharing memory, I'll need to consider which route to take since VRAM will be important for some of my use cases (not gaming).
 
-By default, the RAM speed runs at around 4800 MT/s. EXPO must be enabled in the BIOS to reach closer to 5600 MT/s. I opted not to do that for now as the RAM is also a source of heat, power draw. I'm still tweaking to find the right balance of power and efficiency.
+By default, the RAM speed runs at around 4800 MT/s. EXPO must be enabled in the BIOS to reach closer to 5600 MT/s. I opted not to do that for now as the RAM is also a source of heat, power draw. As the Threadripper CPU can easily torch 350 Watts under full load, I'm still tweaking to find the right balance of power and efficiency.
