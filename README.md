@@ -61,14 +61,14 @@ The 1000W powersupply has it's own directed windflow from the bottom and exits t
 *Idle thermals look good*
 
 ## Design choices and considerations
-While the motherboard does support multiple PCIe Gen5 SSD slots, I opted for a Gen4 SSD at higher capacities and lower price. Reviews indicate the temperature management (even on idle) is still an issue for Gen5 SSDs.
+- While the motherboard does support multiple PCIe Gen5 SSD slots, I opted for a Gen4 SSD at higher capacities and lower price. Reviews indicate the temperature management (even on idle) is still an issue for Gen5 SSDs.
 Also, with random I/O, the performance delta is negligble between Gen5 and Gen4. Still, something I might change once the thermal performance (and power draw) improve in future generations of Gen5 SSDs.
 
-The cable management was a painpoint (specifically the power to the motherboard being right underneath the CPU duct). Looking at System76's manual helped me find the optimal routing for wiring. The other painpoint was the flexing of the
+- The cable management was a painpoint (specifically the power to the motherboard being right underneath the CPU duct). Looking at System76's manual helped me find the optimal routing for wiring. The other painpoint was the flexing of the
 PCIe brackets. You can see in above images some are bent inwards and others outwards. I used the Dell T5610 as a comparision of bracket rigidity. It makes life a bit easier when handling and also don't want that metal bracket to touch the motherboard.
 
-The GPU is underwhelming but that's what I had lying around. Since the newer generation entry-level Nvidia PRO cards don't allow sharing memory, I'll need to consider which route to take since VRAM will be important for some of my use cases (not gaming).
+- The GPU is underwhelming but that's what I had lying around. Since the newer generation entry-level Nvidia PRO cards don't allow sharing memory, I'll need to consider which route to take since VRAM will be important for some of my use cases (not gaming).
 
-By default, the RAM speed is around 4800 MT/s. EXPO must be enabled in the BIOS to reach closer to 5600 MT/s. I opted not to do that for now as the RAM is also a source of heat, power draw. As the Threadripper CPU can easily torch 350 Watts under full load, I'm still tweaking to find the right balance of power and efficiency.
+- By default, the RAM speed is around 4800 MT/s. EXPO must be enabled in the BIOS to reach closer to 5600 MT/s. I opted not to do that for now as the RAM is also a source of heat, power draw. As the Threadripper CPU can easily torch 350 Watts under full load, I'm still tweaking to find the right balance of power and efficiency.
 
-The motherboard version is 1.2. There is a bug with previous versions with respect to sleep/suspend that can't be resolved by a BIOS update. Must ensure to get the latest motherboard version.
+- The motherboard version is 1.2. There is a bug with previous versions with respect to sleep/suspend that can't be resolved with a BIOS update. Get the latest motherboard version.
