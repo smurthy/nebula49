@@ -72,7 +72,8 @@ PCIe brackets. You can see in above images some are bent inwards and others outw
 
 ## Update for 2026
 - Upgraded GPU to Blackwell RTX Pro 4500 for training, inference of local models for small VLMs and LLMs.
-- Workstation powered, in part, by local 11kw solar panel grid-tied system with planned upgrade to large battery backup for evening, night, cloudy-day usaage
+  ![20251229_110803](https://github.com/user-attachments/assets/c56392c2-b9a0-4b69-8a13-d45e7da55225)
+- Workstation powered, in part, by local 11kw solar panel grid-tied system with planned upgrade to large battery backup for evening, night, cloudy-day, and off-grid usaage
 - Upgraded network for 5 gig egress, ingress
 
 - The motherboard version is 1.2. There is a bug with previous versions with respect to sleep/suspend that can't be resolved with a BIOS update. Get the latest motherboard version.
