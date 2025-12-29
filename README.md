@@ -33,7 +33,6 @@ to the *normal fan profile* under heavy load.
 
 *Fan bracket inside CPU duct won't fit with the massive Arctic Freezer cooler*
 
-
 ## The Case
 The case is the anti-gaming system setup. It's powder coated with 1.6MM 5052 H32 Aluminum. Dark themed and internals closed to the outside world with the exception of holes for air inflow/outflow. 
 Even those holes are covered with filters so you can't get a good luck inside. Just as well, nebula49 is designed for optimal thermal and sound performance and it delivers. 
@@ -70,5 +69,10 @@ PCIe brackets. You can see in above images some are bent inwards and others outw
 - The GPU is underwhelming but that's what I had lying around. Since the newer generation entry-level Nvidia PRO cards don't allow sharing memory, I'll need to consider which route to take since VRAM will be important for some of my use cases (not gaming).
 
 - By default, the RAM speed is around 4800 MT/s. EXPO must be enabled in the BIOS to reach closer to 5600 MT/s. I opted not to do that for now as the RAM is also a source of heat, power draw. As the Threadripper CPU can easily torch 350 Watts under full load, I'm still tweaking to find the right balance of power and efficiency.
+
+## Update for 2026
+- Upgraded GPU to Blackwell RTX Pro 4500 for training, inference of local models for small VLMs and LLMs.
+- Workstation powered, in part, by local 11kw solar panel grid-tied system with planned upgrade to large battery backup for evening, night, cloudy-day usaage
+- Upgraded network for 5 gig egress, ingress
 
 - The motherboard version is 1.2. There is a bug with previous versions with respect to sleep/suspend that can't be resolved with a BIOS update. Get the latest motherboard version.
